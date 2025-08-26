@@ -1,5 +1,5 @@
 /**
- * Name: You Know What to Do
+ * Mason Brogden
  */
 package org.howard.edu.lsp.assignment1;
 
